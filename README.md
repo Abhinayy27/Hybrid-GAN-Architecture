@@ -56,3 +56,5 @@ We used a subset of the **CIFAR-10 dataset** (specifically the *cat* class) to t
 - 🤖 Exploring diffusion-based improvements or multi-modal fusion layers.
 
 
+📊 Check out the original notebook on Kaggle: [My Notebook](https://www.kaggle.com/code/friday3000/hybrid-test-cat-main)
+
